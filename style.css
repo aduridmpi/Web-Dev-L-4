@@ -1,0 +1,27 @@
+
+       h1{
+       color:red;
+         }
+   div.CMT{
+       font-size:20px; 
+       font-style:bold;
+       Background:pink!important;
+       color:red!important;
+       border:2px solid black;
+       border-right:4px solid red;
+} 
+div.EMT{
+       font-size:20px; 
+       font-style:italic;
+       Background:Yellow!important;
+       border:2px solid black;
+       border-right:4px solid red;
+}
+   div#fff{
+          width:400px;
+          height:500px; 
+          }
+    .ARC{
+ color:black!important;
+}
+
