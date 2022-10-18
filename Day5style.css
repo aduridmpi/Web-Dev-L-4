@@ -1,0 +1,41 @@
+.cont{
+    width: 1200px; 
+    margin: 0 auto;
+}
+.head{
+    width: 100%;
+    height: 200px;
+    background: rgb(132, 22, 123);
+}
+.logo{
+    padding: 15px;
+    float: left;
+}
+.logo p{
+    float: right;
+    padding-left: 20px;
+    font-size: 25px;
+    color: greenyellow;
+
+}
+.menu{
+    float: right;
+}
+.menu ul{
+    list-style: none;
+}
+.menu ul li{
+    display: inline-block;
+    padding-top: 20px;
+    
+}
+.menu ul li a{
+    text-decoration: none;
+    padding-right: 20px;
+    font-size: 25px;
+    color: #000;
+    
+}
+.menu ul li a:hover{
+    background: rgb(54, 154, 87);
+}
